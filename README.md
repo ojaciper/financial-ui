@@ -10,6 +10,7 @@ this is just a simple ui
 ### Home Scree
 
 ![this is the home screen](assets/Home.png=250x)
+<img src="assets/Home.png" width="50%">
 
 
 
