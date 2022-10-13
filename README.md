@@ -4,17 +4,15 @@
 this is just a simple ui
 ### Onboard Screen
 
-![this is the onboard screen](assets/Onboarding.png=250x)
+<img src="assets/Onboarding.png" width="30%">
 
 
 ### Home Scree
-
-![this is the home screen](assets/Home.png=250x)
-<img src="assets/Home.png" width="50%">
+<img src="assets/Home.png" width="30%">
 
 
 
 ### Details screen
-![this is the details screen](assets/Detail.png=250x)
+<img src="assets/Detail.png" width="30%">
 
 
